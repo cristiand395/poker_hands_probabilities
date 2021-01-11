@@ -9,5 +9,5 @@ Algorithm to know the probabilities to get a Poker Hand
 
 # ScreenShoots
   - 1'000,000 Attemps
-  
-  <img src="/poker.png">
+
+  <img src="/poker.PNG">
